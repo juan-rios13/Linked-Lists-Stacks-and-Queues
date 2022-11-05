@@ -1,16 +1,4 @@
-//
-// Author : Juan Rios
-//
-// Programming Assignment Number 4
-//
-// Spring 2022 - CS 3358 - 252
-//
-// Due Date : 3/11/2022
-//
-// Instructor: Husain Gholoom.
-//
-/* Write a C++ program that will simulate a ADT stack / queue
-using a linked List ADT with actual pointers that performs various functions */
+
 
 #include <iostream>
 
